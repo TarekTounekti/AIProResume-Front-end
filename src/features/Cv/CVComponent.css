@@ -1,0 +1,53 @@
+.cv-container {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+  }
+  
+  .header {
+    text-align: left;
+    width: 100%;
+  }
+  
+  .contact-info {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    text-align: left;
+  }
+  
+  .section {
+    flex: 1;
+  }
+  
+  .work-history, .education {
+    text-align: left;
+    margin-top: 20px;
+  }
+  
+  .job, .education-item {
+    margin-bottom: 10px;
+  }
+  
+  .keypoints, .responsibilities {
+    text-align: left;
+    margin-top: 20px;
+  }
+  
+  ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  h1, h2, h3 {
+    margin: 0;
+  }
+  
+  p {
+    margin: 5px 0;
+  }
+  
+  a {
+    color: #007bff;
+  }
